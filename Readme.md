@@ -14,3 +14,30 @@ Bon entraînement !
 
 Exercice 1
 ![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/30def73c-4be5-4f53-be6f-d2ac84699e51)
+
+Exercice 2
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/591dd358-fb32-430c-be9d-a9f2db86aff0)
+
+Exercice 3
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/3e7f6bd7-4145-43f7-aa80-67059f9961e1)
+
+Exercice 4
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/35d916b4-b377-4dab-84d8-0337595d4b4a)
+
+Exercice 5
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/23536037-0114-4e8c-8e05-063eab74eab8)
+
+Exercice 6
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/5001d709-cced-46f5-92e8-32a2bd15604a)
+
+Exercice 7
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/585b2734-94c9-44ef-b6c3-666827f4a149)
+
+Exercice 8
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/60b52363-375e-45ca-8417-600c63795c09)
+
+Exercice 9
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/062180a3-1305-4ad0-8953-c4834f30b36b)
+
+Exercice 10
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/6aa107a0-39e0-46b3-9050-07d50669f414)
