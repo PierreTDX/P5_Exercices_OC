@@ -11,3 +11,6 @@ Sélectionnez `E2E Testing` puis sélectionnez le navigateur dans lequel vous vo
 Si votre code est correct alors les tests seront décrits en vert. 
 
 Bon entraînement !
+
+Exercice 1
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/30def73c-4be5-4f53-be6f-d2ac84699e51)
