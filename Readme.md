@@ -40,4 +40,5 @@ Exercice 9
 ![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/062180a3-1305-4ad0-8953-c4834f30b36b)
 
 Exercice 10
-![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/6aa107a0-39e0-46b3-9050-07d50669f414)
+![image](https://github.com/PierreTDX/P5_Exercices_OC/assets/119109729/dd7fb764-90e6-430e-ab9a-60921f422fd1)
+
